@@ -1,0 +1,16 @@
+__pycache__/
+
+
+#Archivos Syllabus
+parametros.py
+tablero.py
+
+#Archivo partidas
+partidas/
+
+#Archivos varios
+test.py
+por_hacer.txt
+
+#Archivo puntajes historicos
+puntajes.txt

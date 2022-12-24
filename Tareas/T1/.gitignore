@@ -1,0 +1,12 @@
+#Archivos .csv
+entrenadores.csv
+evoluciones.csv
+objetos.csv
+programones.csv
+
+#Enunciado
+Enunciado.pdf
+
+#Archivos varios
+test.py
+__pycache__

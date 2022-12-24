@@ -1,0 +1,9 @@
+Enunciado.pdf
+\sprites
+cliente\sprites
+cliente\__pycache__
+servidor\__pycache__
+\__pycache__
+test.py
+test_ventana.py
+test_codificacion.py

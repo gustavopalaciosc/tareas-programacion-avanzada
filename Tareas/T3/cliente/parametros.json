@@ -1,0 +1,12 @@
+{
+    "host": "localhost",
+    "port": 1200,
+    "RUTA_PANTALLA_LOGIN": ["frontend", "assets", "ui-ventana-inicio.ui"],
+    "RUTA_PANTALLA_ESPERA": ["frontend", "assets", "ui-ventana-espera.ui"],
+    "RUTA_PANTALLA_JUEGO": ["frontend", "assets", "ui-ventana-juego.ui"],
+    "RUTA_PANTALLA_FINAL": ["frontend", "assets", "ui-ventana-final.ui"],
+    "CUENTA_REGRESIVA_INICIO": 10,
+    "BARAJA_PANTALLA": 5,
+    "TIEMPO_TERMINAR_PARTIDA": 5000,
+    "TIEMPO_REINICIO_CARTAS": 4000
+}
