@@ -9,3 +9,5 @@ frontend/ventana_test.py
 notas.txt
 test.py
 test2.py
+
+/__pycache__
